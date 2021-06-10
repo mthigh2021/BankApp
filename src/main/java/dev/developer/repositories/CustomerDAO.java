@@ -258,7 +258,7 @@ public class CustomerDAO implements GenericRepositories<Customer> {
 					ResultSet rs = ps.executeQuery();
 
 					// ps.setRowId(1, "cust_id");
-					ps.setString(1, PullRSPW);
+					ps.setString(1,cusID.getPassWord());
 					// rs2.next();
 					// ps.setString(1, "cust_password");
 					rs.next();
@@ -329,9 +329,14 @@ public class CustomerDAO implements GenericRepositories<Customer> {
 
 		return null;
 	}
+
+	
+		
+		
+	}
 	
 	
 	
 	
 
-}
+

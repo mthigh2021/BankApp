@@ -50,6 +50,11 @@ public class Customer {
 		this.withdrawl = withdrawl;
 	}
 
+	public Customer(Integer id, String name) {
+		super();
+		this.id = id;
+		Name = name;
+	}
 	
 
 	public Customer(String name, String userName, String passWord, double deposit) {
@@ -79,6 +84,9 @@ public class Customer {
 	public String getName() {
 		return Name;
 	}
+
+
+	
 
 
 	public void setName(String name) {

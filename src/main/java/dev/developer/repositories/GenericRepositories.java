@@ -31,7 +31,8 @@ public interface GenericRepositories<T> {
 	public boolean delete(T t);
 
 	public T getByAccountID (Integer id);
-
+  
+	
 
 
 

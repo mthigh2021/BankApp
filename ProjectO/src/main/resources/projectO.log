@@ -1,0 +1,18 @@
+INFO  | 2021-06-09 10:08:05 | [main] app.Driver (Driver.java:25) - Program started
+INFO  | 2021-06-09 12:51:02 | [main] app.Driver (Driver.java:25) - Program started
+INFO  | 2021-06-09 12:57:08 | [main] app.Driver (Driver.java:25) - Program started
+INFO  | 2021-06-09 15:32:23 | [main] app.Driver (Driver.java:25) - Program started
+INFO  | 2021-06-09 15:32:32 | [main] app.Driver (Driver.java:52) - User Choose a number
+INFO  | 2021-06-09 15:33:27 | [main] app.Driver (Driver.java:52) - User Choose a number
+INFO  | 2021-06-09 18:33:14 | [main] app.Driver (Driver.java:29) - Program started
+INFO  | 2021-06-09 18:33:23 | [main] app.Driver (Driver.java:56) - User Choose a number
+INFO  | 2021-06-09 19:07:32 | [main] app.Driver (Driver.java:29) - Program started
+INFO  | 2021-06-09 19:09:47 | [main] app.Driver (Driver.java:29) - Program started
+INFO  | 2021-06-09 19:13:50 | [main] app.Driver (Driver.java:29) - Program started
+INFO  | 2021-06-09 19:14:00 | [main] app.Driver (Driver.java:62) - User Choose a number
+INFO  | 2021-06-09 19:14:49 | [main] app.Driver (Driver.java:62) - User Choose a number
+INFO  | 2021-06-09 19:16:02 | [main] app.Driver (Driver.java:62) - User Choose a number
+INFO  | 2021-06-09 19:16:02 | [main] app.Driver (Driver.java:333) - Here is the Updated dataBase 
+INFO  | 2021-06-09 19:18:16 | [main] app.Driver (Driver.java:29) - Program started
+INFO  | 2021-06-09 19:18:22 | [main] app.Driver (Driver.java:62) - User Choose a number
+INFO  | 2021-06-09 19:19:18 | [main] app.Driver (Driver.java:314) - Customer Adding in progress waiting till dataBase  update
